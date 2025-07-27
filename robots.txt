@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ej1245.github.io/pcm/sitemap.xml
+Sitemap: https://www.apcmaid.com/sitemap.xml
